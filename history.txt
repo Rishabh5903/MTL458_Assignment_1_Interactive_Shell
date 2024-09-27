@@ -1,0 +1,18 @@
+ls
+ls *-1
+ls -1
+history
+history
+history
+ls
+cd    sample
+ls
+cd ..
+history
+exit
+wc file2.txt               -l
+wc file2.txt -l
+exit
+cd
+cd -
+exit
